@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F9DCD1;
+}
+
+
+
+#home {
+    background-color: #FAF4F1;
+    height: auto;
+}
+
+header {
+    background-color: 3fff !important;
+}
+
+.samsung {
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-position: top;
+    backgro;
+    height: 500px;
+    padding: 30px;
+    background-color: #f5f5f584;
+}
+
