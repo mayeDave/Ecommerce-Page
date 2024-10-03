@@ -24,9 +24,20 @@ header {
     background-repeat: no-repeat;
     background-size: inherit;
     background-position: top;
-    backgro;
     height: 500px;
     padding: 30px;
     background-color: #f5f5f584;
+}
+.pink {
+    background-color: pink;
+}
+.pinky {
+    color: #f05d71;
+    font-weight: 700;
+    font-size: large;
+}
+
+.delivery {
+    background-color: #FAF4F1 !important;
 }
 
